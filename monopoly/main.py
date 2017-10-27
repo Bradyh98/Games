@@ -135,5 +135,3 @@ while (input("Enter anything but (N) to roll dice (N quits game)").upper() != "N
 
 
 
-
-print ("hello")
